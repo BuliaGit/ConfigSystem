@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "commandLineArgs": "name=nnn pwd=ppp address:load=ddd address:Id=111"
+    }
+  }
+}
